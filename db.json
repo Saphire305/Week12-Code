@@ -1,0 +1,68 @@
+{
+  "customers": [
+    {
+      "name": "Nettie Douglas",
+      "phoneNumber": "582.329.9027",
+      "email": "Raul.Berge18@yahoo.com",
+      "address": "520 Sylvester Crescent",
+      "comment": "comment 3",
+      "id": 3
+    },
+    {
+      "name": "Antonia Adams",
+      "phoneNumber": "1-925-603-5446",
+      "email": "Winnifred.Kirlin68@hotmail.com",
+      "address": "47207 Crooks Ridges",
+      "comment": "comment 4",
+      "id": 4
+    },
+    {
+      "name": "Suzanne Kohler",
+      "phoneNumber": "896.518.2079",
+      "email": "Arnulfo34@gmail.com",
+      "address": "26942 Breitenberg Estates",
+      "comment": "comment 5",
+      "id": 5
+    },
+    {
+      "name": "Kate Davis",
+      "phoneNumber": "1-390-901-7452",
+      "email": "Arvilla50@gmail.com",
+      "address": "430 Collier Falls",
+      "comment": "comment 6",
+      "id": 6
+    },
+    {
+      "name": "Alvin Roob",
+      "phoneNumber": "373-325-4904",
+      "email": "Kole.Ullrich@gmail.com",
+      "address": "01767 Maida Ways",
+      "comment": "comment 7",
+      "id": 7
+    },
+    {
+      "name": "Joseph Zboncak",
+      "phoneNumber": "1-269-778-6995",
+      "email": "Jaquan.Strosin87@gmail.com",
+      "address": "303 Raymond Hollow",
+      "comment": "comment 8",
+      "id": 8
+    },
+    {
+      "name": "Terrance Oberbrunner",
+      "phoneNumber": "1-511-258-9074",
+      "email": "Mabelle_Schinner89@gmail.com",
+      "address": "578 Hansen Mill",
+      "comment": "comment 9",
+      "id": 9
+    },
+    {
+      "name": "Kelli Schinner",
+      "phoneNumber": "614.881.8155",
+      "email": "Cory_Robel@hotmail.com",
+      "address": "49725 Huels Ford",
+      "comment": "comment 11",
+      "id": 11
+    }
+  ]
+}

@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <link rel="stylesheet" href="node_modules/bootstrap/dist/css/bootstrap.css">
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body class="container bg-secondary">
+    <h1>Customer List</h1>
+
+    <div class="container bg-primary rounded p-2 my-2" id="customers">
+        <div class="container row my-2">
+            <div class="container col-sm mx-auto border-bottom border-dark"><h4>Name</h4></div>
+            <div class="container col-sm mx-auto border-bottom border-dark"><h4>Phone</h4></div>
+            <div class="container col-sm mx-auto border-bottom border-dark"><h4>Email</h4></div>
+            <div class="container col-sm mx-auto border-bottom border-dark"><h4>Address</h4></div>
+            <div class="container col-sm mx-auto border-bottom border-dark"><h4>Notes</h4></div>
+        </div>
+    </div>
+
+    <div class="form-group w-25 my-2 bg-info p-2 rounded">
+        <h4>Add New Customer</h4>
+        <input type="text" class="form-control my-1" placeholder="Name" id="newName">
+        <input type="text" class="form-control my-1" placeholder="Phone" id="newNumber">
+        <input type="text" class="form-control my-1" placeholder="Email" id="newEmail">
+        <input type="text" class="form-control my-1" placeholder="Address" id="newAddress">
+        <textarea type="text" class="form-control my-1" placeholder="Notes" id="newComment"></textarea>
+        <button type="submit" class="form-control my-1 bg-success" rows="3" onclick="addCustomer()">Submit</button>
+    </div>
+
+    <script src="node_modules/jquery/dist/jquery.js"></script>
+    <script src="index.js"></script>
+</body>
+</html>
